@@ -1,8 +1,9 @@
 import openpyxl
-from tkFileDialog import askopenfilename
+
+from tkinter import filedialog
 from Tkinter import *
 import ttk
-import Tkinter as tk
+import  tk
 import pymsgbox
 reload(sys);
 sys.setdefaultencoding("utf8")

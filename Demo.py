@@ -1,6 +1,5 @@
-from Tkinter import *
-from tkFileDialog import askopenfilename
-import Tkinter as tk
+from tk import *
+from tkinter import filedialog
 import ttk
 import pymsgbox
 import unicodecsv as csv
